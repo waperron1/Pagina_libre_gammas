@@ -1,0 +1,174 @@
+.nav{
+	 width: 850px; /* Anchura del menú */
+    height: 40px; /* Altura del menú */
+    margin: 0 auto;
+        text-decoration: none; /* Quitamos el subrayado de los enlaces */
+    font-size: 18px; /* Tamaño del texto del menú */
+    color: #F0F8FF; /* Color del texto */
+    padding: 3px 10px; /* Establecemos ancho y alto de los botones */
+     cursor: pointer;
+     transition: all 1s linear; /* Comienzan las transiciones CSS3 */
+-moz-transition: all 1s linear;
+-webkit-transition: all 1s linear; 
+-o-transition: all 1s linear;
+background-color: #078d12; /* Color de fondo para navegadores sin soporte CSS3 */
+background: -webkit-radial-gradient(#00008B, #00FF7F); /* Degradado de fondo CSS3 */
+   background: -moz-radial-gradient(#00008B, #00FF7F); /* Degradado de fondo CSS3 */
+   -moz-border-radius: 7px 7px 0 0; /* Bordes redondeados */
+-webkit-border-radius: 7px 7px 0 0;
+}
+.ul{
+	list-style: none; /* Eliminamos el puntito negro */
+    display: block;
+    border-bottom-color: #E4E4E4;
+}
+.li{
+	    float: left; /* Alineamos los botones del menú */
+    margin: 0 5px; /* Distancia de separación entre botones */
+        background: white; /* Cambiamos color de fondo cuando cursor del ratón esta encima */
+    
+}
+.as{
+	background-image: url('IMAGENES/Fondo.jpg');
+}
+.art1{
+	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+    text-align: 
+}
+.art1i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1200px;
+}
+.art1i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -800px;
+}
+.art1i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -500px;
+}
+#art2{
+	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+	background: #000220;
+
+}
+.art2i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1400px;
+}
+.art2i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -900px;
+}
+.art2i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -600px;
+}
+#art3{
+	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+	background-color: #010331;
+
+}
+.art3i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1400px;
+}
+.art3i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -900px;
+}
+.art3i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -400px;
+}
+#art4{
+	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+	background-color: #010736 ;
+
+}
+.art4i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1200px;
+}
+.art4i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -700px;
+}
+.art4i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -400px;
+}
+#art5{
+	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+	text-align: left;
+	background-color:#020244;
+
+}
+.art5i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1400px;
+}
+.art5i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -900px;
+}
+.art5i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -400px;
+}
+#art6{
+	background-color: #0B0263;
+  	color: white;
+	margin-left: 160px;
+	margin-right: 50%;
+	text-align: left;
+}
+.art6i{
+	  	color: white;
+	margin-left: 60%;
+	margin-top:-1200px;
+}
+.art6i2{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -900px;
+}
+.art6i3{
+	  	color: white;
+	margin-left: 60%;
+	margin-top: -600px;
+}
+#ancla{
+	color: black;
+}
+.fo{
+	color: white;
+	margin-left: 160px;
+	margin-right: 130px;
+	text-align: left;
+}
